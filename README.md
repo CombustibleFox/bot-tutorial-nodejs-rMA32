@@ -102,7 +102,7 @@ First you must fork the initial code from my account.
 
 
 
-Sign into Github, go to this link https://github.com/batorobe/bot-tutorial-nodejs-rMCF, and click the 'Fork' button in the upper right corner
+Sign into Github, go to this link https://github.com/CombustibleFox/groupme-duty-bot, and click the 'Fork' button in the upper right corner
 
 ![Fork button](http://imgur.com/Cm9gXmJ.png?raw=true)
 
