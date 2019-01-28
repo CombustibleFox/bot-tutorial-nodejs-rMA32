@@ -134,6 +134,9 @@ Scroll all the way down to 'Manual Deploy' and click 'Deploy Branch'
 
 # How To Make The Code Your Own 
 
+Tanner - All the names for duty is stored in the bot.js file. Replace the names in each of the [] for each month. 
+
+
 This may require some coding knowledge to get working, but basically how it works is you have a 'regex' variable at the top which stores what you want the bot to respond to, and then code below which actually responds to the code.
 
 Sign in to Github
